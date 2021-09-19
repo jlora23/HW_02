@@ -1,1 +1,1 @@
-[![build status of master](https://app.travis-ci.com/jlora23/HW_02.svg?branch=master)](https://app.travis-ci.com/jlora23/HW_02)
+[![build status of master](https://app.travis-ci.com/jlora23/HW_02.svg?branch=maain)](https://app.travis-ci.com/jlora23/HW_02)
